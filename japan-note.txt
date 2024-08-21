@@ -1,0 +1,8 @@
+CD7 CAR T-Cell Therapy and Allogeneic HSCT
+Published July 3, 2024 N Engl J Med 2024;391:92-93 VOL. 391 NO. 1
+
+Hu and colleagues (April 25 issue)1 describe a successful “all-in-one” strategy consisting of sequential chimeric antigen receptor (CAR) T-cell therapy and haploidentical hematopoietic stem-cell transplantation (HSCT) in 10 patients with relapsed or refractory CD7-positive leukemia or lymphoma. After CAR T-cell therapy resulted in complete remission with incomplete hematologic recovery, patients received haploidentical HSCT without pharmacologic myeloablation or prophylaxis against graft-versus-host disease (GVHD).
+Remarkably, at a median follow-up of 15.1 months, GVHD had not developed in most patients, a finding that supports the idea that CD7 CAR T-cell therapy depletes CD7-positive T cells and prevents acute GVHD. It is well known that B cells as well as T cells contribute to the development of chronic GVHD after allogeneic HSCT.2-4 Therefore, if CD7 CAR T-cell therapy can prevent chronic GVHD without GVHD prophylaxis, the strategy of targeting CD7 could become a promising one for the prevention of chronic GVHD. To hypothesize the possible mechanism of preventing chronic GVHD, data regarding immune reconstitution — including humoral immunity and B cells — could be informative.
+Shigeo Fuji, M.D., Ph.D.
+Osaka International Cancer Institute, Osaka, Japan
+fujishige1231@gmail.com
